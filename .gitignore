@@ -1,0 +1,14 @@
+build/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore IDE files
+.idea/
+.vscode/
+.terraform/
+
+# Ignore API keys
+api_keys/
